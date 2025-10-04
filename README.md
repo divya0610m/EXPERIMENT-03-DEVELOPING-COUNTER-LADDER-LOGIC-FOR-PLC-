@@ -67,19 +67,18 @@ Down Counter (CTD): The output should activate when the count reaches zero.
 Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
 
 ### Simulation Screenshots:
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/8424f8d7-1624-4a70-8bf7-9e92ccfb1199" />
 
-<img width="766" height="406" alt="image" src="https://github.com/user-attachments/assets/556803c0-94e0-4eed-a334-9368beee51f3" />
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/a5e16297-10d0-4107-8dd8-d1b796f5ecf1" />
 
 
-<img width="770" height="410" alt="image" src="https://github.com/user-attachments/assets/c9fbed37-37e7-4fb4-99bc-0f945cde37ae" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/9b6e9146-b2cb-4a88-b15c-9117f81ba0f8" />
 
-<img width="774" height="409" alt="image" src="https://github.com/user-attachments/assets/e158606c-409a-42fe-bc9a-4d23ffd46de4" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/074fd551-3d48-4e92-a48a-cca415bcdc61" />
 
-<img width="768" height="404" alt="image" src="https://github.com/user-attachments/assets/ea542e4c-e591-4dcf-84a9-dd1bd095edb2" />
+<img width="1907" height="1018" alt="image" src="https://github.com/user-attachments/assets/e1f5bd54-1ed4-496d-9f72-f5e2763af280" />
 
-<img width="774" height="410" alt="image" src="https://github.com/user-attachments/assets/51371371-1920-467d-9f0a-6799a594f9a1" />
-
-<img width="775" height="419" alt="image" src="https://github.com/user-attachments/assets/bc777b3f-c9fd-4f8c-83ce-e0d5f42a1c58" />
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/6f1ddb25-9154-4e76-a6bf-d6915a49a7f6" />
 
 
 ### Results:
